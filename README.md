@@ -1,5 +1,5 @@
 # dart-problems-solved
-Welcome to the **Dart Daily Challenge** repository! This project is dedicated to solving 5 Dart problems every day to improve my programming skills in Dart and prepare for future projects and jobs. Each problem is designed to reinforce fundamental concepts and practical applications of Dart.
+Welcome to the **Dart Daily Challenge** repository! This project is dedicated to solving Dart problems every day to improve my programming skills in Dart and prepare for future projects and jobs. Each problem is designed to reinforce fundamental concepts and practical applications of Dart.
 
 ##  Purpose
 
